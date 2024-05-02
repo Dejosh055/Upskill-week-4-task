@@ -1,0 +1,48 @@
+.card{
+    background: linear-gradient(lightblue , white );
+    font-size: medium;
+    border: 10px solid #0000;
+    border-radius: 10px;
+    height: 260px;
+    width: 45%;
+    text-align: center;
+    justify-content: center;
+}
+h1{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 30px;
+    padding: 0px;
+    margin: 3px;
+}
+h2{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 30px;
+    padding: 0px;
+    margin: 3px;
+}
+p{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 30px;
+    padding: 4px;
+    margin: 3px;
+
+}
+.img{
+    width: 45%;
+    height: 110px;
+    border: 10px solid #0000;
+    border-radius: 20px;
+    align-items: center;
+}
+    
+#name{
+    margin: 30px 10px;
+    text-align:center;
+    margin: 0px 0px 5px;
+    justify-content: center;
+    
+
+}
